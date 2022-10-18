@@ -1,0 +1,162 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    height: 600px;
+    background-color: transparent;
+    float: left;
+}
+
+.header {
+    width: 100%;
+    min-height: 159px;
+    background-color: transparent;
+    float: left;
+    text-decoration: none;
+}
+
+.logo {
+    width: 20%;
+    height: 159px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+.space {
+    width: 55%;
+    background-color: transparent;
+    height: 159px;
+    float: left;
+
+}
+
+.nav {
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    height: 159px;
+    float: left;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    justify-content: space-between;
+    margin: 1px;
+}
+
+
+
+.btn {
+    background: #235cfa;
+    box-shadow: 2px 3px 6px white;
+    border-radius: 3.px;
+    height: 39px;
+    width: 140px;
+    color: white;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 15px;
+    cursor: pointer;
+    border: 0.625px transparent;
+    padding-top: 4px;
+    box-sizing: border-box;
+    margin-left: 20px;
+
+}
+
+.center h2 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 60px;
+    color: #07043B;
+    padding: 0px;
+    margin-top: 100px;
+    line-height: 60px;
+}
+
+.text1 {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.text2 {
+
+    margin-left: 2rem;
+}
+
+.center p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    letter-spacing: 0.53125px;
+    color: #07043B;
+    padding-top: 0;
+    margin-left: 2rem;
+}
+
+.admin {
+    background-color: #000000;
+    height: 100px;
+    width: 100px;
+
+
+}
+
+.inp {
+    border: 0.625px solid #07043B;
+
+    border-radius: 3.125px;
+    margin-bottom: 159px;
+    height: 30px;
+    width: 260px;
+    padding: 18px;
+    box-sizing: border-box;
+    margin-left: 50px;
+}
+
+.nav a {
+    color: #235cfa;
+    text-decoration: none;
+}
+
+.main2 {
+    width: 50%;
+    height: 400px;
+    background-color: transparent;
+    float: left;
+    margin: 0;
+    padding: 9 !important;
+    display: inline;
+    align-content: center;
+
+}
+
+.main3 {
+    width: 50%;
+    height: 400px;
+    background-color: transparent;
+    float: left;
+    margin-top: 100px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
